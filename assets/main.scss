@@ -1,0 +1,29 @@
+---
+---
+
+@import "minima";
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", sans-serif;
+  word-break: keep-all;
+}
+
+.post-content table {
+  width: 100%;
+}
+
+.author-box {
+  margin-top: 2.5rem;
+  padding: 1rem 1.25rem;
+  border-top: 1px solid #e8e8e8;
+  border-bottom: 1px solid #e8e8e8;
+  font-size: 1rem;
+}
+
+.author-box p {
+  margin-bottom: 0.5rem;
+}
+
+.author-box-name {
+  font-weight: 700;
+}

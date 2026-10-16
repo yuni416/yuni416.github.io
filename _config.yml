@@ -1,0 +1,23 @@
+title: 비전공 메이커 기록
+description: PCB도 3D 모델링도 모르는 비전공자가 AI와 상의하며 하나씩 만들어 보는 기록
+lang: ko-KR
+url: "https://yuni416.github.io"
+baseurl: ""
+timezone: Asia/Tokyo
+
+theme: minima
+minima:
+  date_format: "%Y.%m.%d"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+permalink: /:year/:month/:title/
+
+header_pages:
+  - about.md
+
+exclude:
+  - README.md
