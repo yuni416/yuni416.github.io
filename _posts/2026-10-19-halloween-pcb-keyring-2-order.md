@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCB 모르는 마케터가 AI랑 할로윈 PCB 키링 만들기 ② 주문 편 (컬러 실크 + 조립)"
+title: "PCB 모르는 비전공자가 AI랑 할로윈 PCB 키링 만들기 ② 주문 편 (컬러 실크 + 조립)"
 date: 2026-10-19
 categories: [PCB, 메이커]
 tags: [JLCPCB주문, 컬러실크스크린, PCBA, EasyEDA, BOM, CPL, PCB키링]

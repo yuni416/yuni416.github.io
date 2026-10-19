@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PCB 모르는 마케터가 AI랑 할로윈 PCB 키링 만들기 ① 설계 편"
+title: "PCB 모르는 비전공자가 AI랑 할로윈 PCB 키링 만들기 ① 설계 편"
 date: 2026-10-16
 categories: [PCB, 메이커]
 tags: [PCB키링, 할로윈PCB, PCB아트, 컬러실크스크린, ATtiny414, CR2032]
